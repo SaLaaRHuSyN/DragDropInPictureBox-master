@@ -1,0 +1,19 @@
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\bin\Debug\DragDropInPictureBox.exe.config
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\bin\Debug\DragDropInPictureBox.exe
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\bin\Debug\DragDropInPictureBox.pdb
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.csprojResolveAssemblyReference.cache
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.Form1.resources
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.Properties.Resources.resources
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.csproj.GenerateResource.Cache
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.exe
+C:\Users\SaLaaR HuSyN\source\repos\DragDropInPictureBox\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.pdb
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\bin\Debug\DragDropInPictureBox.exe.config
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.pdb
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\bin\Debug\DragDropInPictureBox.exe
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\bin\Debug\DragDropInPictureBox.pdb
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.csprojResolveAssemblyReference.cache
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.Form1.resources
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.Properties.Resources.resources
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.csproj.GenerateResource.Cache
+C:\Users\jupitor\Downloads\DragDropInPictureBox-master\DragDropInPictureBox\obj\Debug\DragDropInPictureBox.exe
